@@ -1,3 +1,3 @@
 clabot config for the India Investments organization
 
-- edit 2 from takeda
+- edit 3 from takeda
